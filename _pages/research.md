@@ -11,7 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Journal Articles</h2>
+Journal Articles
+------
 <strong>Making the environment like a cool thing: Exploring generation Z and millennials engagement with climate change video on YouTube</strong>
 <br>Seelig, M., Shata, A., **Yang, Z.**, Sd, D., Gao, Y., Hu, H. & Yang, J.<br>
 <i>Environment and Behavior</i> <b>(Submitted)</b>
@@ -31,12 +32,14 @@ author_profile: true
 <i>Critical Studies in Media Communication – Special Issue CFP</i> <b>(Under Review)</b>
 <br> <strong>Abstract:</strong> In the first half of 2020, the reports began coming in. Black people in the U.S. were disproportionately affected by COVID-19. Black women especially were burdened by this virus as it struck their physical and mental health, families, and financial resources. To receive more insight into Black women’s experiences during the pandemic, this mixed-methods study analyzed seven U.S. newspapers. This analysis sought to determine the pandemic experiences that were salient for Black women, and how the print media framed them. Specifically, 312 direct quotes about COVID attributed to Black women were analyzed. This study revealed that Black women focused on how the virus impacted their health, their role as protectors of their families, and their livelihood. Using Black Feminism Theory and Muted Group Theory as lenses, the quotes revealed the newspapers employed the Strong Black woman frame and that Black women were cognizant of their unique intersectional experiences.<br>
 
-<h2>Book Chapter</h2>
+Book Chapter
+------
 <strong>Accents and dialects in public speaking.</strong>
 <br>Wright, K. O., Cotto, L. & **Yang, Z.**<br>
 <i>The Routledge handbook of public speaking research and theory</i> <b>(Under Review)</b>
 
-<h2>Conference Presentations</h2>
+Conference Presentations
+------
 <strong>Can virtual standardized patients teach empathic communication skills in healthcare?: A systematic review. </strong>
 <br>Chen, X. & **Yang, Z.** <b>(Submitted)</b><br>
 The 109th National Communication Association Annual Convention. National Harbor, MD, United States.
