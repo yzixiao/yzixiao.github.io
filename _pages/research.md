@@ -41,7 +41,7 @@ Book Chapter
 Conference Presentations
 ------
 <strong>Can virtual standardized patients teach empathic communication skills in healthcare?: A systematic review. </strong>
-<br>Chen, X. & **Yang, Z.** <b>(Submitted)</b><br>
+<br>Chen, X. & **Yang, Z.** <b>(2023, November)</b><br>
 The 109th National Communication Association Annual Convention. National Harbor, MD, United States.
 
 <strong>Sarcastic messaging and the righteous rage hypothesis: Does sarcasm reinforces existing views and increase hostility towards the opposition?</strong>
