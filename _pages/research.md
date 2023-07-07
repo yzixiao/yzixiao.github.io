@@ -24,7 +24,7 @@ Journal Articles
 
 <br><strong>A content analysis of problematic gambling prevention interventions in the United States</strong>
 <br>**Yang, Z.**, Deal, B., Carcioppolo, N., Zhao, Y. & Sewall, A.<br>
-<i>Journal of Gambling Studies</i> <b>(Accepted)</b>
+<i>Journal of Gambling Studies</i> <b>(2023)</b> https://doi.org/10.1007/s10899-023-10237-8
 <br> <strong>Abstract:</strong> Gambling revenue in the United States is at all-time highs while recent and forthcoming legislation relaxes constraints on casino gaming, sports betting, and fantasy sports betting. Increased gambling will result in increased problematic gambling, highlighting the need to study the impact of our problematic gambling prevention interventions. To address this, we conducted a content analysis of problematic gambling prevention messages in the U.S.. Results reveal that although there is overlap between theoretically-based messaging appeals recommended by research and those used in actual prevention interventions, health behavior theory is inconsistently applied and there are numerous examples of potential backfire effects. Results are discussed in terms of their impact on theory development and their noteworthy practical application.<br>
 
 <br><strong>“We have a lot weighing on us:” A Black Feminist analysis of U.S. newspaper quotes of Black women in year 1 of the COVID-19 pandemic.</strong>
@@ -36,7 +36,7 @@ Book Chapter
 ------
 <strong>Accents and dialects in public speaking.</strong>
 <br>Wright, K. O., Cotto, L. & **Yang, Z.**<br>
-<i>The Routledge handbook of public speaking research and theory</i> <b>(Under Review)</b>
+<i>The Routledge handbook of public speaking research and theory</i> <b>(Forthcoming)</b>
 
 Conference Presentations
 ------
