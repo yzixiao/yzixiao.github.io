@@ -45,7 +45,7 @@ Conference Presentations
 The 109th National Communication Association Annual Convention. National Harbor, MD, United States.
 
 <strong>Sarcastic messaging and the righteous rage hypothesis: Does sarcasm reinforces existing views and increase hostility towards the opposition?</strong>
-<br>Carcioppolo, N., Wang, G., **Yang, Z.**, Zhao, X. & Zhao, Y.<b> (Submitted)</b><br>
+<br>Carcioppolo, N., Wang, G., **Yang, Z.**, Zhao, X. & Zhao, Y. (2023, November)<br>
 The 109th National Communication Association Annual Convention. National Harbor, MD, United States.
 
 <strong>Do nurses fight in comfort? Coping strategies on occupational stress and posttraumatic growth for frontline nurses during COVID-19.</strong>
